@@ -1,0 +1,9 @@
+article a {
+  background-color: #ff8700;
+  padding: 15px 100px;
+  border-radius: 8px;
+  max-width: fit-content;
+  color: white;
+  font-weight: bold;
+  display: block;
+}
